@@ -26,7 +26,7 @@ Source: [RAVDESS](https://www.kaggle.com/datasets/uwrfkaggler/ravdess-emotional-
 ## Usage
 To use this project, follow these steps below:
 
-1. Clone the repository:
+1. Clone the repository or download az ZIP because model has big file size:
    ```sh 
    git clone https://github.com/mdprana/Speech-Emotion-Recognition-PPDM.git
    ```
