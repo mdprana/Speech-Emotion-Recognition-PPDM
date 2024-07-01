@@ -56,27 +56,29 @@ To use this project, follow these steps below:
    ```sh
    streamlit run app.py
    ```
+   
+4. You can upload and make prediction using audio from ``example_audio`` folder
 
 ## Demo Preview
 **Upload Audio Section**
 <br/>
-<img src="https://github.com/mdprana/Speech-Emotion-Recognition-PPDM/assets/95018619/5c6da313-e515-4aea-9091-570ae29d208b" alt="Picture1" width="1024" height="480">
+<img src="https://github.com/mdprana/Speech-Emotion-Recognition-PPDM/assets/95018619/5c6da313-e515-4aea-9091-570ae29d208b" alt="Picture1" width="1024" height="435">
 
 **Emotion Prediction with Single audio file upload**
 <br/>
-<img src="https://github.com/mdprana/Speech-Emotion-Recognition-PPDM/assets/95018619/4c0c0937-13cf-4be1-abc0-3eabe558e791" alt="Picture1" width="1024" height="480">
+<img src="https://github.com/mdprana/Speech-Emotion-Recognition-PPDM/assets/95018619/4c0c0937-13cf-4be1-abc0-3eabe558e791" alt="Picture1" width="1024" height="435">
 
 **Emotion Prediction with Multiple audio file upload**
 <br/>
-<img src="https://github.com/mdprana/Speech-Emotion-Recognition-PPDM/assets/95018619/c35e689b-b92a-4e3c-adf7-2308e1eba099" alt="Picture1" width="1024" height="480">
+<img src="https://github.com/mdprana/Speech-Emotion-Recognition-PPDM/assets/95018619/c35e689b-b92a-4e3c-adf7-2308e1eba099" alt="Picture1" width="1024" height="435">
 
 **Record Audio Section**
 <br/>
-<img src="https://github.com/mdprana/Speech-Emotion-Recognition-PPDM/assets/95018619/a538e6d1-1f3e-431a-b906-ebd319063c37" alt="Picture1" width="1024" height="480">
+<img src="https://github.com/mdprana/Speech-Emotion-Recognition-PPDM/assets/95018619/a538e6d1-1f3e-431a-b906-ebd319063c37" alt="Picture1" width="1024" height="435">
 
 **Emotion Recognition with Record Audio**
 <br/>
-<img src="https://github.com/mdprana/Speech-Emotion-Recognition-PPDM/assets/95018619/e09d4026-7479-4b2a-9f25-3167d1fc18ad" alt="Picture1" width="1024" height="480">
+<img src="https://github.com/mdprana/Speech-Emotion-Recognition-PPDM/assets/95018619/e09d4026-7479-4b2a-9f25-3167d1fc18ad" alt="Picture1" width="1024" height="435">
 <br/>
 
 ## YouTube
