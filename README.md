@@ -82,7 +82,8 @@ To use this project, follow these steps below:
 <br/>
 
 ## YouTube
-**Coming Soon...**
+[![Video Demo](https://img.youtube.com/vi/vZFZOexUN6A/maxresdefault.jpg)](https://www.youtube.com/watch?v=vZFZOexUN6A)
+Source: https://youtu.be/vZFZOexUN6A
 
 <br/><br/>
 This project represents a significant step forward in the field of emotion recognition, offering a powerful tool for understanding human emotions through speech. Explore our [GitHub Repository](https://github.com/mdprana?tab=repositories) for more project.
